@@ -13,7 +13,9 @@ Write your design steps here
 
 ## OUTPUT:
 include your output screenshots 
-
+![output](./HOME.PNG)
+![OUTPUT](./TRAINING.PNG)
+![OUTPUT](./ABOUT.PNG)
 
 ## Result:
 Thus a wire frame is designed for a given website.
